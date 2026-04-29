@@ -11,5 +11,6 @@ namespace KonsolTabanlıKargoŞirketiOtomasyonu
         public string Surname { get; set; }
         public string Password { get; set; }
         public string Position { get; set; }
+        
     }
 }
